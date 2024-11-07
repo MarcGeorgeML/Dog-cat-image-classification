@@ -1,16 +1,16 @@
-<div align="left" style="position: relative;">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
-<h1>DOG-CAT-IMAGE-CLASSIFICATION</h1>
-<p align="left">
-	<img src="https://img.shields.io/github/last-commit/Yoyobun1/Dog-cat-image-classification?style=social&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Yoyobun1/Dog-cat-image-classification?style=social&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Yoyobun1/Dog-cat-image-classification?style=social&color=0080ff" alt="repo-language-count">
-</p>
-<p align="left">Built with the tools and technologies:</p>
-<p align="left">
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=social&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=social&logo=Python&logoColor=white" alt="Python">
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="10%" style="margin-bottom: -15px;">
+  <h1>DOG-CAT-IMAGE-CLASSIFICATION</h1>
+  <p>
+    <img src="https://img.shields.io/github/last-commit/Yoyobun1/Dog-cat-image-classification?style=flat-square&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+    <img src="https://img.shields.io/github/languages/top/Yoyobun1/Dog-cat-image-classification?style=flat-square&color=0080ff" alt="repo-top-language">
+    <img src="https://img.shields.io/github/languages/count/Yoyobun1/Dog-cat-image-classification?style=flat-square&color=0080ff" alt="repo-language-count">
+  </p>
+  <p>Built with the tools and technologies:</p>
+  <p>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white" alt="Python">
+  </p>
 </div>
 <br clear="right">
 
