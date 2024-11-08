@@ -196,16 +196,19 @@ Install Dog-cat-image-classification using one of the following methods:
 ❯ pip install -r requirements.txt
 ```
 
-### 🧪 Testing
+4. Usage
+Run the project using the following command:
+**Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Install-pip-blue" />](https://pip.pypa.io/en/stable/installation/)
+```sh
+> python main.py
+```
+
+6. Testing
 Run the test suite using the following command:
 **Using `pip`** &nbsp; [<img align="center" src="https://img.shields.io/badge/Install-pip-blue" />](https://pip.pypa.io/en/stable/installation/)
 
 ```sh
 ❯ pytest tests/
-
-
-```sh
-❯ echo 'pytest tests/'
 ```
 
 
