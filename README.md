@@ -189,24 +189,11 @@ Install Dog-cat-image-classification using one of the following methods:
 
 3. Install the project dependencies:
 
-
 **Using `pip`** &nbsp; [<img align="center" src="URL_TO_IMAGE" />](URL_TO_LINK)
 
 ```sh
-❯ echo 'pip install -r requirements.txt'
-
-
-
-
-
-### 🤖 Usage
-Run Dog-cat-image-classification using the following command:
-**Using `pip`** &nbsp; [<img align="center" src="" />]()
-
-```sh
-❯ echo 'INSERT-RUN-COMMAND-HERE'
+❯ pip install -r requirements.txt
 ```
-
 
 ### 🧪 Testing
 Run the test suite using the following command:
@@ -214,7 +201,7 @@ Run the test suite using the following command:
 
 ```sh
 ❯ echo 'pytest tests/'
-
+```
 
 
 ---
