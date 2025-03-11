@@ -12,7 +12,7 @@ setup(
     name=SRC_REPO,
     version="0.0.1",
     author = "Yoyobun1",
-    descritpion = "A simple book recommender system using collaborative filtering",
+    descritpion = "A simple Classifier to differentiate between Cats and Dogs",
     long_description = long_description,
     long_description_content_type = "text/markdown",
     url = f"https://github.com/Yoyobun1/Dog-vs-Cat-Classifier",
